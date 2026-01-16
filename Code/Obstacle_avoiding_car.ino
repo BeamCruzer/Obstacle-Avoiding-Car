@@ -63,13 +63,13 @@ void loop()
 
         if (distanceR >= distanceL)
         {
-            turnLeft();
+            turnRight();
             stop();
         }
 
         else
         {
-            turnRight();
+            turnLeft();
             stop();
         }
     }
