@@ -145,3 +145,11 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 **Spandan Choudhury**  
 Embedded Systems | Robotics | IoT  
 GitHub: `@BeamCruzer`
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **Star** ⭐ on **GitHub!**
+
+---
